@@ -1,0 +1,88 @@
+m lleft
+m lleft
+m l
+m
+m up
+jump
+m left right
+
+s
+
+
+
+
+
+
+
+
+
+
+s
+
+
+
+
+
+
+
+
+s
+
+
+
+
+
+
+m rright
+m rright
+sl
+
+
+
+sl
+
+
+m lleft
+l
+s
+sl
+h
+
+m lleft
+
+
+
+
+w
+r
+r conf
+r conf_6
+r conf_5
+r conf_2
+r conf_4
+r conf_1
+r conf_3
+m left
+s
+
+
+m left
+m right
+s
+
+
+sl
+s
+
+
+s
+
+
+m right
+s
+
+
+m left
+sl
+
+

@@ -1,0 +1,6 @@
+Space Invaders 2.0
+
+Level: EASY
+Random generator initialized with seed: 123
+[ERROR] Error: Cannot invoke "String.length()" because "texto" is null
+

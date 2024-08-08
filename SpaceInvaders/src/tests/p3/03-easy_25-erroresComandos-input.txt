@@ -1,0 +1,41 @@
+patata
+r patata
+reset PATATA
+reset conf_1 patata
+ reset 
+reset 
+reset conf_1 
+r conf_2 
+reset conf_3 
+reset conf_4 
+reset conf_5 
+r conf_6 
+r
+r conf_1
+h patata
+help patata
+ help
+h
+l patata
+list
+l
+s patata
+shoot
+s
+sl patata
+superLaser
+sl
+shockWave patata
+shockWave
+w
+none patata
+none
+n
+r conf_1
+move lleft patata
+m up
+move lleft
+m lleft
+m lleft
+exit patatata
+e

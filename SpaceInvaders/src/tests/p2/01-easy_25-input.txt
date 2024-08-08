@@ -1,0 +1,76 @@
+
+
+
+sl
+s
+move lleft
+s
+
+
+
+sl
+
+
+
+move rright
+sl
+
+
+
+
+r conf
+r conf_3
+move lleft
+shoot
+
+
+move left
+s
+
+
+s
+
+
+move right
+
+s
+
+
+move lleft
+
+
+
+
+
+s
+
+
+
+
+
+
+
+
+
+
+
+
+s
+
+
+
+
+
+
+w
+move rright
+move rright
+
+s
+move left
+s
+
+move left
+s
+
+
